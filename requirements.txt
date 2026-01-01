@@ -1,0 +1,6 @@
+py-cord
+bs4
+requests
+aiosqlite
+audioop-lts
+python-dotenv
