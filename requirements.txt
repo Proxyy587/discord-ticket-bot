@@ -4,3 +4,6 @@ requests
 aiosqlite
 audioop-lts
 python-dotenv
+fastapi
+dotenv
+openai
